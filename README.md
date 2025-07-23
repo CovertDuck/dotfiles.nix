@@ -1,6 +1,6 @@
-# dotfiles
+# dotfiles.nix
 
-This repository contains dotfiles for my day-to-day development environment. They are not very good.
+This repository contains dotfiles for my fledging NixOS development environment. Safeguard your sanity and don't use them.
 
 ## Installation
 
